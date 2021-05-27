@@ -7,12 +7,12 @@
 	# a channel ID to invite people to when they request help with the bot
 	# the bot must have Create Instant Invite permissions for this channel
 	# if set to None, the support command will be disabled
-	'support_server_invite_channel': None,
+	'support_server_invite_channel': https://discord.gg/vUFeHCBBUg,
 	
-	'prefixes': ['em/'],
+	'prefixes': ['?'],
 
 	'tokens': {
-		'discord': 'sek.rit.token',
+		'discord': 'ODQ3NTc1MDg4MjM2MDY4ODY0.YLAD0A.JKkZgctdbrqet_e0Jizveaql_zo',
 	},
 
 	'ignore_bots': {
